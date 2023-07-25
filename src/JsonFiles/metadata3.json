@@ -1,0 +1,19 @@
+{
+    "description" : "This gift allows you to receive 30% of your bet when you win",
+    "image" : "ipfs://bafkreig4gt3ogyeulmzxi4j4rxm6bswatdssh7ypvzatbsqxof3bbnpg4e",
+    "name" : "Green Dice",
+    "attributes": [
+      {
+        "trait_type": "RewardPercent", 
+        "value": 30
+      },
+      {
+        "trait_type": "collection",
+        "value": 3
+      },
+      {
+        "trait_type": "value",
+        "value": 30000
+      }
+    ]	
+  }

@@ -1,0 +1,20 @@
+{
+    "description" : "This gift allows you to receive 20% of your bet when you win",
+    "image" : "ipfs://bafkreiag3krjo7nmm3kzw4y46bnpivmdajr5mpoc7uitzcqeirsalo3puu",
+    "name" : "Blue Dice",
+    "attributes": [
+      {
+        "trait_type": "RewardPercent", 
+        "value": 20
+      },
+      {
+        "trait_type": "collection",
+        "value": 2
+      },
+      {
+        "trait_type": "value",
+        "value": 20000
+      }
+    ]	
+  }
+  
